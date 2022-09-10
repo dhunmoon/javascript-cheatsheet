@@ -10,13 +10,12 @@
 * encodeURIComponent()
 * escape() [Deprecated]
 * eval()
-* EvalError()
-* FinalizationRegistry()
 * isFinite()
 * isNaN()
 * parseFloat()
 * parseInt()
 * unescaped() [Deprecated]
+* FinalizationRegistry()
 
 ### Data structure
 * Array
@@ -78,4 +77,5 @@
 * SyntaxError
 * TypedError
 * URIError
+* EvalError()
 

@@ -1,19 +1,30 @@
 [⬅ built-in-objects](https://github.com/dhunmoon/javascript-cheatsheet/blob/main/built-in-objects.md)
 # Global functions
+
+## Encoding decoding URI and URI Components
+> Order of items in the list is different from how the appear in the documentation below.
 * decodeURI() 
 * decodeURIComponent()
 * encodeURI()
 * encodeURIComponent()
-* escape() [Deprecated]
-* eval()
-* EvalError()
-* FinalizationRegistry()
+
+## Helpful in validation
 * isFinite()
 * isNaN()
+
+## Parsing values
 * parseFloat()
 * parseInt()
-* unescaped() [Deprecated]
 
+## Evaluate JavaScript code stored as string.
+* eval()
+
+## Memory management - Difficult to understand and use
+* FinalizationRegistry()
+
+## Escape and unescape characters [Deprecated]
+* escape() [Deprecated]
+* unescaped() [Deprecated]
 
 ## 1. `decodeURI()`
 `decodeURI` understands the structure of the URI and only decodes the part of URI which needed to be decoded.
@@ -219,3 +230,5 @@ unescape('%u0107');     // "ć"
 ```
 
 [⬅ built-in-objects](https://github.com/dhunmoon/javascript-cheatsheet/blob/main/built-in-objects.md)
+
+
