@@ -1,18 +1,18 @@
 [⬅ built-in-objects](https://github.com/dhunmoon/javascript-cheatsheet/blob/main/built-in-objects.md)
 # Global functions
-    * decodeURI() 
-    * decodeURIComponent()
-    * encodeURI()
-    * encodeURIComponent()
-    * escape() [Deprecated]
-    * eval()
-    * EvalError()
-    * FinalizationRegistry()
-    * isFinite()
-    * isNaN()
-    * parseFloat()
-    * parseInt()
-    * unescaped() [Deprecated]
+* decodeURI() 
+* decodeURIComponent()
+* encodeURI()
+* encodeURIComponent()
+* escape() [Deprecated]
+* eval()
+* EvalError()
+* FinalizationRegistry()
+* isFinite()
+* isNaN()
+* parseFloat()
+* parseInt()
+* unescaped() [Deprecated]
 
 
 ## 1. `decodeURI()`
