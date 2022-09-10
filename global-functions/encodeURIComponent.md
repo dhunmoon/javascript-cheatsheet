@@ -1,3 +1,5 @@
+[⬅ All Global functions](https://github.com/dhunmoon/javascript-cheatsheet/tree/main/global-functions)
+<hr>
 # `encodeURIComponent()`
 
 The `encodeURIComponent()` function encodes a URI by replacing each instance of certain characters by one, two, three, or four escape sequences representing the UTF-8 encoding of the character (will only be four escape sequences for characters composed of two "surrogate" characters).
@@ -15,3 +17,6 @@ encodeURIComponent(`https://mozilla.org/?x=шеллы`)
 
 ## Returns
 `encodedURIComponent` : `string` - string is encoded.
+
+<hr>
+[⬅ All Global functions](https://github.com/dhunmoon/javascript-cheatsheet/tree/main/global-functions)

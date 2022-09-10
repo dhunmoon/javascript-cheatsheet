@@ -1,3 +1,5 @@
+[⬅ All Global functions](https://github.com/dhunmoon/javascript-cheatsheet/tree/main/global-functions)
+<hr>
 # `isFinite()`
 
 Structure - `isFinite(any) -> [true/false]`
@@ -19,3 +21,6 @@ console.log(isFinite('123123'))// true
 ```
 
 It will only return true if the value passed is a Finite number or expression which evaluates to a finite number.
+
+<hr>
+[⬅ All Global functions](https://github.com/dhunmoon/javascript-cheatsheet/tree/main/global-functions)

@@ -1,3 +1,5 @@
+[⬅ All Global functions](https://github.com/dhunmoon/javascript-cheatsheet/tree/main/global-functions)
+<hr>
 # `isNaN()`
 
 Structure - `isNaN(any|expression) -> true`
@@ -29,3 +31,5 @@ isNaN(new Date().toString());     // true
 isNaN('blabla');   // true: "blabla" is converted to a number.
                    // Parsing this as a number fails and returns NaN
 ```
+<hr>
+[⬅ All Global functions](https://github.com/dhunmoon/javascript-cheatsheet/tree/main/global-functions)

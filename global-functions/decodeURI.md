@@ -1,3 +1,5 @@
+[⬅ All Global functions](https://github.com/dhunmoon/javascript-cheatsheet/tree/main/global-functions)
+<hr>
 # `decodeURI()`
 `decodeURI` understands the structure of the URI and only decodes the part of URI which needed to be decoded.
 
@@ -21,3 +23,5 @@ decodeURIComponent('https%3A%2F%2Fmozilla.org%2F%3Fx%3D%D1%88%D0%B5%D0%BB%D0%BB%
 console.log(decodeURI('https://mozilla.org/?x=%D1%88%D0%B5%D0%BB%D0%BB%D1%8B');
 // Output : https://mozilla.org/?x=шеллы
 ```
+<hr>
+[⬅ All Global functions](https://github.com/dhunmoon/javascript-cheatsheet/tree/main/global-functions)

@@ -1,3 +1,5 @@
+[⬅ All Global functions](https://github.com/dhunmoon/javascript-cheatsheet/tree/main/global-functions)
+<hr>
 # `escape()`
 
 The `escape()` function computes a new string in which certain characters have been replaced by a hexadecimal escape sequence.
@@ -10,3 +12,5 @@ escape('ć');          // "%u0107"
 // special characters
 escape('@*_+-./');    // "@*_+-./"
 ```
+<hr>
+[⬅ All Global functions](https://github.com/dhunmoon/javascript-cheatsheet/tree/main/global-functions)

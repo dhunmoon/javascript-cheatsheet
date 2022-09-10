@@ -1,3 +1,5 @@
+[⬅ All Global functions](https://github.com/dhunmoon/javascript-cheatsheet/tree/main/global-functions)
+<hr>
 # `FinalizationRegistry()`
 
 A `FinalizationRegistry` object lets you request a callback when an object is garbage-collected.
@@ -41,3 +43,5 @@ registry.register(theObject, "some value", tokenObject);
 // some time later
 registry.unregister(tokenObject);
 ```
+<hr>
+[⬅ All Global functions](https://github.com/dhunmoon/javascript-cheatsheet/tree/main/global-functions)

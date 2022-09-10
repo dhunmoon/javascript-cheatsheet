@@ -1,3 +1,5 @@
+[⬅ All Global functions](https://github.com/dhunmoon/javascript-cheatsheet/tree/main/global-functions)
+<hr>
 # `eval()`
 
 The `eval()` function evaluates JavaScript code represented as a string and returns its completion value. The source is parsed as a script.
@@ -27,3 +29,6 @@ There are two different mode of eval __direct__ and __indirect__. __direct__ is 
 3. will not inherit the strictness ot the surrounding scope.
 4. var declared using __direct__ will go to the surrounding scope but with __indirect__ it will go to the global scope.
 5. __indirect__ don't have access to contextual expressions.
+
+<hr>
+[⬅ All Global functions](https://github.com/dhunmoon/javascript-cheatsheet/tree/main/global-functions)
