@@ -11,6 +11,7 @@ There are some common functions which can be used anywhere in JavaScript code. I
 * decodeURI() 
 * decodeURIComponent()
 * encodeURI()
+
 * encodeURIComponent()
 
 ### Helpful in validation
