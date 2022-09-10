@@ -30,7 +30,7 @@ There are some common functions which can be used anywhere in JavaScript code. I
 
 ### Escape and unescape characters [Deprecated]
 * escape() [Deprecated]
-* unescaped() [Deprecated]
+* [unescaped()](unescaped.md) [Deprecated]
 
 > Note: EvalError() is also a global function but it put it into a different category because it was more related to Errors. It's a personal decision.
 <hr>
