@@ -1,6 +1,6 @@
-[built-in-objects](https://github.com/dhunmoon/javascript-cheatsheet/blob/main/built-in-objects.md)
+[⬅ built-in-objects](https://github.com/dhunmoon/javascript-cheatsheet/blob/main/built-in-objects.md)
 # Global functions
-    * decodeURI()
+    * decodeURI() 
     * decodeURIComponent()
     * encodeURI()
     * encodeURIComponent()
@@ -218,4 +218,4 @@ unescape('%E4%F6%FC');  // "äöü"
 unescape('%u0107');     // "ć"
 ```
 
-[built-in-objects](https://github.com/dhunmoon/javascript-cheatsheet/blob/main/built-in-objects.md)
+[⬅ built-in-objects](https://github.com/dhunmoon/javascript-cheatsheet/blob/main/built-in-objects.md)
