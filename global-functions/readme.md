@@ -8,28 +8,28 @@ There are some common functions which can be used anywhere in JavaScript code. I
 
 ### Encoding decoding URI and URI Components
 > Order of items in the list is different from how the appear in the documentation below.
-* decodeURI() 
-* decodeURIComponent()
-* encodeURI()
+* [decodeURI()](decodeURI.md)
+* [decodeURIComponent()](decodeURIComponent.md)
+* [encodeURI()](encodeURI.md)
 
-* encodeURIComponent()
+* [encodeURIComponent()](encodeURIComponent.md)
 
 ### Helpful in validation
-* isFinite()
-* isNaN()
+* [isFinite()](isFinite.md)
+* [isNaN()](isNaN.md)
 
 ### Parsing values
-* parseFloat()
-* parseInt()
+* [parseFloat()](parseFloat.md)
+* [parseInt()](parseInt.md)
 
 ### Evaluate JavaScript code stored as string.
-* eval()
+* [eval()](eval.md)
 
 ### Memory management - Difficult to understand and use
-* FinalizationRegistry()
+* [FinalizationRegistry()](FinalizationRegistry.md)
 
 ### Escape and unescape characters [Deprecated]
-* escape() [Deprecated]
+* [escape()](escape.md) [Deprecated]
 * [unescaped()](unescaped.md) [Deprecated]
 
 > Note: EvalError() is also a global function but it put it into a different category because it was more related to Errors. It's a personal decision.
