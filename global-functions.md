@@ -1,4 +1,7 @@
 [⬅ built-in-objects](https://github.com/dhunmoon/javascript-cheatsheet/blob/main/built-in-objects.md)
+
+<hr>
+
 # Global functions
 
 ### Encoding decoding URI and URI Components
@@ -228,6 +231,12 @@ unescape('abc123');     // "abc123"
 unescape('%E4%F6%FC');  // "äöü"
 unescape('%u0107');     // "ć"
 ```
+
+## 12. `FinalizationRegistry()`
+
+A `FinalizationRegistry` object lets you request a callback when an object is garbage-collected.
+
+<hr>
 
 [⬅ built-in-objects](https://github.com/dhunmoon/javascript-cheatsheet/blob/main/built-in-objects.md)
 
