@@ -3,7 +3,7 @@
 
 ## List of built in objects category wise.
 
-### Global functions
+### Global functions [click here](https://github.com/dhunmoon/javascript-cheatsheet/blob/main/global-functions.md)
 * decodeURI()
 * decodeURIComponent()
 * encodeURI()
