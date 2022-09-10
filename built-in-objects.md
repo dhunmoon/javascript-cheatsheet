@@ -3,19 +3,19 @@
 
 ## List of built in objects category wise.
 
-### Global functions [click here](https://github.com/dhunmoon/javascript-cheatsheet/blob/main/global-functions.md)
-* decodeURI()
-* decodeURIComponent()
-* encodeURI()
-* encodeURIComponent()
-* escape() [Deprecated]
-* eval()
-* isFinite()
-* isNaN()
-* parseFloat()
-* parseInt()
-* unescaped() [Deprecated]
-* FinalizationRegistry()
+### Global functions [click here](https://github.com/dhunmoon/javascript-cheatsheet/blob/main/global-functions)
+* [decodeURI()](global-functions/decodeURI.md)
+* [decodeURIComponent()](global-functions/decodeURIComponent.md)
+* [encodeURI()](global-functions/encodeURI.md)
+* [encodeURIComponent()](global-functions/encodeURIComponent.md)
+* [escape()](global-functions/escape.md) [Deprecated]
+* [eval()](global-functions/eval.md)
+* [isFinite()](global-functions/isFinite.md)
+* [isNaN()](global-functions/isNaN.md)
+* [parseFloat()](global-functions/parseFloat.md)
+* [parseInt()](global-functions/parseInt.md)
+* [unescaped()](global-functions/unescaped.md) [Deprecated]
+* [FinalizationRegistry()](global-functions/FinalizationRegistry.md)
 
 ### Data structure
 * Array
