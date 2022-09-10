@@ -24,4 +24,5 @@ console.log(decodeURI('https://mozilla.org/?x=%D1%88%D0%B5%D0%BB%D0%BB%D1%8B');
 // Output : https://mozilla.org/?x=шеллы
 ```
 <hr>
+
 [⬅ All Global functions](https://github.com/dhunmoon/javascript-cheatsheet/tree/main/global-functions)

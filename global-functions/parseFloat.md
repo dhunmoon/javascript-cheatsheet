@@ -8,4 +8,5 @@ Syntax : `parseFloat(string|any)` returns `Number` or `NaN` based on value passe
 
 If the string can be converted to Number then that Number is returned else it returns `NaN`.
 <hr>
+
 [⬅ All Global functions](https://github.com/dhunmoon/javascript-cheatsheet/tree/main/global-functions)

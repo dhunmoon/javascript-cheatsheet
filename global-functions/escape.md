@@ -13,4 +13,5 @@ escape('ć');          // "%u0107"
 escape('@*_+-./');    // "@*_+-./"
 ```
 <hr>
+
 [⬅ All Global functions](https://github.com/dhunmoon/javascript-cheatsheet/tree/main/global-functions)

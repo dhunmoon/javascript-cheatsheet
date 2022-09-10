@@ -21,4 +21,5 @@ encodeURIComponent(`https://mozilla.org/?x=шеллы`)
 `encodedURI` : `string` - a encoded URI
 
 <hr>
+
 [⬅ All Global functions](https://github.com/dhunmoon/javascript-cheatsheet/tree/main/global-functions)

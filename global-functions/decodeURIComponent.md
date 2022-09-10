@@ -20,4 +20,5 @@ decodeURIComponent('https%3A%2F%2Fmozilla.org%2F%3Fx%3D%D1%88%D0%B5%D0%BB%D0%BB%
 `decodedURIComponent` : `string` - decoded string.
 
 <hr>
+
 [⬅ All Global functions](https://github.com/dhunmoon/javascript-cheatsheet/tree/main/global-functions)

@@ -11,4 +11,5 @@ unescape('%u0107');     // "ć"
 ```
 
 <hr>
+
 [⬅ All Global functions](https://github.com/dhunmoon/javascript-cheatsheet/tree/main/global-functions)

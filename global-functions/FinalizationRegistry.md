@@ -44,4 +44,5 @@ registry.register(theObject, "some value", tokenObject);
 registry.unregister(tokenObject);
 ```
 <hr>
+
 [⬅ All Global functions](https://github.com/dhunmoon/javascript-cheatsheet/tree/main/global-functions)
