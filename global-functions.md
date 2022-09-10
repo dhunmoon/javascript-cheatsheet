@@ -1,5 +1,5 @@
 [⬅ built-in-objects](https://github.com/dhunmoon/javascript-cheatsheet/blob/main/built-in-objects.md)
-> 🚧 Improvement on the documentation is needed 
+> 🚧 Improvement on the documentation is needed to pack more information in less space.
 <hr>
 
 # Global functions
