@@ -106,7 +106,7 @@ console.log(decodeURI('https://mozilla.org/?x=%D1%88%D0%B5%D0%BB%D0%BB%D1%8B');
 // Output : https://mozilla.org/?x=шеллы
 ```
 
-### decodeURIComponent()
+### 2. decodeURIComponent()
 
 `decodeURIComponent()` treats the entire value passed inside as a thing which needed to be decode.
 
@@ -125,7 +125,7 @@ decodeURIComponent('https%3A%2F%2Fmozilla.org%2F%3Fx%3D%D1%88%D0%B5%D0%BB%D0%BB%
 
 `decodedURIComponent` : `string` - decoded string.
 
-### encodeURI()
+### 3. encodeURI()
 
 The `encodeURI()` function encodes a URI by replacing each instance of certain characters by one, two, three, or four escape sequences representing the UTF-8 encoding of the character (will only be four escape sequences for characters composed of two "surrogate" characters).
 
@@ -145,7 +145,7 @@ encodeURIComponent(`https://mozilla.org/?x=шеллы`)
 #### Returns
 `encodedURI` : `string` - a encoded URI
 
-### encodeURIComponent()
+### 4. encodeURIComponent()
 
 The `encodeURIComponent()` function encodes a URI by replacing each instance of certain characters by one, two, three, or four escape sequences representing the UTF-8 encoding of the character (will only be four escape sequences for characters composed of two "surrogate" characters).
 
