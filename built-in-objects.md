@@ -8,13 +8,13 @@
 * [decodeURIComponent()](global-functions/decodeURIComponent.md)
 * [encodeURI()](global-functions/encodeURI.md)
 * [encodeURIComponent()](global-functions/encodeURIComponent.md)
-* [escape()](global-functions/escape.md) [Deprecated]
+* [escape()](global-functions/escape.md) <span color="red">[Deprecated]</span>
 * [eval()](global-functions/eval.md)
 * [isFinite()](global-functions/isFinite.md)
 * [isNaN()](global-functions/isNaN.md)
 * [parseFloat()](global-functions/parseFloat.md)
 * [parseInt()](global-functions/parseInt.md)
-* [unescaped()](global-functions/unescaped.md) [Deprecated]
+* [unescaped()](global-functions/unescaped.md) <span color="red">[Deprecated]</span>
 * [FinalizationRegistry()](global-functions/FinalizationRegistry.md)
 
 ### Data structure
