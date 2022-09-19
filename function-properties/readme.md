@@ -2,7 +2,7 @@
 > 🚧 Improvement on the documentation is needed to pack more information in less space.
 <hr>
 
-# Global functions
+# Function Properties
 
 There are some common functions which can be used anywhere in JavaScript code. I had put all these function in their separate category so that it's easier to understand.
 
